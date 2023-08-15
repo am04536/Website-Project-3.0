@@ -128,7 +128,7 @@ h1, h2, h3, h4, h5, h6 {
 
 #title .container-fluid {
   padding: 0% 10% 7%;
-	  background-image: url("../../Alex_Bootstrap_Website/images/arcade.gif");
+	  background-image: url("../images/arcade.gif");
 background-size: cover;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -257,19 +257,19 @@ background-size: cover;
 
 /* Add the styles for carousel items */
 #testimonials .carousel-item:nth-child(1) {
-  background: url("../../Alex_Bootstrap_Website/images/denfender.gif") center/cover no-repeat;
+  background: url("../images/denfender.gif") center/cover no-repeat;
 	padding-top: 50px;
 	padding-bottom: 50px;/* Set background image for the first slide */
 }
 
 #testimonials .carousel-item:nth-child(2) {
-  background: url( "../../Alex_Bootstrap_Website/images/galaga.gif") center/cover no-repeat;
+  background: url( "../images/galaga.gif") center/cover no-repeat;
 	padding-top:50px;
 	padding-bottom: 50px;/* Set background image for the second slide */
 }
 
 #testimonials .carousel-item:nth-child(3) {
-  background: url(  "../../Alex_Bootstrap_Website/images/pac-man-gameplay.gif") center/cover no-repeat;
+  background: url(  "../images/pac-man-gameplay.gif") center/cover no-repeat;
 	padding-top:50px;
 	padding-bottom: 50px;
 }
